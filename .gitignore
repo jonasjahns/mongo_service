@@ -146,4 +146,3 @@ cython_debug/
 .idea/misc.xml
 .idea/modules.xml
 .idea/mongo_service.iml
-service.py
